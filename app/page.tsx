@@ -6,7 +6,7 @@ import Title from "@/components/Title";
 
 const Home = () => {
   return (
-    <main className="w-80 overflow-hidden rounded-lg">
+    <main className="w-80 overflow-hidden rounded-lg lg:flex lg:w-[960px]">
       <Container bgColor="brightOrange">
         <Icon icon="sedans" />
         <Title>Sedans</Title>
@@ -27,7 +27,7 @@ const Home = () => {
       </Container>
       <Container bgColor="veryDarkCyan">
         <Icon icon="luxury" />
-        <Title>Luxurs</Title>
+        <Title>Luxury</Title>
         <Text>
           Cruise in the best car brands without the bloated prices. Enjoy the
           enhanced comfort of a luxury rental and arrive in style.

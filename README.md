@@ -18,7 +18,7 @@ Users should be able to:
 
 ## Screenshot
 
-![Screen Shot 2024-01-21 at 00 16 57](https://github.com/palmeiroerick/3-column-preview-card-component/assets/148393698/be2373ca-7ce3-4004-bc4f-96668cd4c8c3)
+![Screen Shot 2024-01-21 at 00 24 32](https://github.com/palmeiroerick/3-column-preview-card-component/assets/148393698/cbb99f44-6a15-4a94-9496-d22c51ad1488)
 
 ## Links
 

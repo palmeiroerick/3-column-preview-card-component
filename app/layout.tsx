@@ -13,7 +13,9 @@ const RootLayout = ({ children }: { children: ReactNode }) => {
       lang="en"
       className={`${lexendDeca.variable} ${bigShouldersDisplay.variable}`}
     >
-      <body className="flex justify-center py-16">{children}</body>
+      <body className="flex justify-center py-16 lg:h-screen lg:items-center">
+        {children}
+      </body>
     </html>
   );
 };

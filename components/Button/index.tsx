@@ -10,7 +10,7 @@ const Button = ({ color }: ButtonProps) => {
   };
   return (
     <button
-      className={`${colorVariants[color]} bg-veryLightGray h-10 w-36 rounded-full text-sm`}
+      className={`${colorVariants[color]} h-10 w-36 rounded-full bg-veryLightGray text-sm lg:h-12 lg:text-base`}
     >
       Learn More
     </button>

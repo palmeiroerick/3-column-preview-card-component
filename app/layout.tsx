@@ -13,7 +13,7 @@ const RootLayout = ({ children }: { children: ReactNode }) => {
       lang="en"
       className={`${lexendDeca.variable} ${bigShouldersDisplay.variable}`}
     >
-      <body>{children}</body>
+      <body className="flex justify-center py-16">{children}</body>
     </html>
   );
 };
